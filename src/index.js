@@ -1,3 +1,5 @@
+import './index.css';
+
 const child = document.getElementById('child');
 const parent = document.getElementById('parent');
  let isDragging = false;
